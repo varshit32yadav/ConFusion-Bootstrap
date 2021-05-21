@@ -27,10 +27,19 @@ color: black;
 }
 .jumbotron
 {
-    background-color: #9575cd;
+    background-color:#9575cd;
     margin: auto;
     padding: 0px auto;
     color: floralwhite;
     font-family: Arial, Helvetica, sans-serif;
 
+}
+.abc
+{
+   
+    min-height: 400px;
+    padding: 0px 0px 20px;
+    border-bottom: 0.5px ridge floralwhite;
+    margin-bottom: 50px;
+    
 }
