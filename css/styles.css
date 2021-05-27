@@ -53,3 +53,12 @@ body
 {
    background-color: #512da8; 
 }
+.tab-content
+{
+    border-bottom: 1px solid powderblue;
+    border-left: 1px solid powderblue;
+    border-right: 1px solid powderblue;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(212, 209, 209);
+}
