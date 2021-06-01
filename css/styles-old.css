@@ -1,0 +1,85 @@
+.row-header
+{
+    margin : 0px auto;
+    padding :20px ;
+    
+}
+.row-footer
+{
+    background-color: #9575cd;
+    margin: 0px auto;
+    padding: 0px 20px 0px 20px;
+
+}
+.row-content
+{
+    border-bottom: 1px ridge floralwhite;
+    padding: 0px 50px 0px 50px;
+    margin: 0px auto;
+    min-height: 400px;
+
+}
+.address
+{
+font-size: 80%;
+margin: 0px;
+color: black;
+}
+.jumbotron
+{
+    background-color:#9575cd;
+    margin: auto;
+    padding: 0px auto;
+    color: floralwhite;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.abc
+{
+   
+    
+    padding: 60px 0px 0px 70px;
+    border-bottom: 0.5px ridge floralwhite;
+    margin-bottom: 50px;
+    
+}
+body
+{
+    padding: 50px 0px 0px 0px;
+    z-index: 0;
+
+}
+.navbar-dark
+{
+   background-color: #512da8; 
+}
+.tab-content
+{
+    border-bottom: 1px solid powderblue;
+    border-left: 1px solid powderblue;
+    border-right: 1px solid powderblue;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: rgb(212, 209, 209);
+}
+.carousel
+{
+   background-color: #512da8;
+}
+.carousel-item 
+{ 
+ height: 300px;
+}
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton
+{
+ bottom: 0px;
+ right: 0px;
+ position: absolute;   
+ z-index: 0;
+}
