@@ -17,5 +17,22 @@
               $("#carouselButton").children("span").addClass('fa-pause');                    
           }
       });
-     
+
+     $('.open').click(function(){
+         $('#loginModal').modal('show'); });
+         
+      $('.ropen').click(function(){
+        $('#modalref').modal('show');});
+
+      $('.close').click(function(){
+        $('#loginModal').modal('hide');
+        $('#modalref').modal('hide');});
+
+       $('#close').click(function(){
+        $('#loginModal').modal('hide');});
+
+       $('#2close').click(function(){
+        $('#modalref').modal('hide'); });
+
   });
+
